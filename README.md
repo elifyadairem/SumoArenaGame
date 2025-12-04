@@ -2,7 +2,8 @@
 
 # Sumo Arena Game 🤼‍♂️
 
-🎮 **OYNANIŞ LİNKİ (WEBGL):** https://elifyadairem.itch.io/sumo-arena
+🎮 **OYNANIŞ LİNKİ (WEBGL):
+** https://elifyadairem.itch.io/sumo-arena
 
 ---
 
